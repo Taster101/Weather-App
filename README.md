@@ -1,10 +1,15 @@
 # Weather-App
-GIVEN a weather dashboard with form inputs
-WHEN I search for a city
-THEN I am presented with current and future conditions for that city and that city is added to the search history
-WHEN I view current weather conditions for that city
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the wind speed
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
+## Weather Dashboard
+This is a weather dashboard application that allows users to search for a city and view current and future weather conditions for that city. The application also provides a search history feature, allowing users to easily access previously searched cities.
+
+## How to Use
+Open the Weather Dashboard application.
+You will be presented with a search form where you can enter the name of a city.
+Enter the name of the city you want to search for in the input field.
+Click on the "Search" button or press Enter to initiate the search.
+The application will retrieve and display the current and future weather conditions for the entered city.
+The current weather conditions will include the city name, the date, an icon representation of weather conditions, the temperature, humidity, and wind speed.
+The future weather conditions will display a 5-day forecast, including the date, an icon representation of weather conditions, the temperature, wind speed, and humidity.
+The searched city will be added to the search history below the search form.
+To view the current and future conditions for a previously searched city, simply click on the city name in the search history.
+The application will retrieve and display the weather conditions for the selected city.
